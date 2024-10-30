@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: linear-gradient(150deg,#353534,#dbba00);
+    height: 190vh;
+    }
+
+    .productos{
+        position: absolute;
+        background-color: rgb(155, 155, 138);
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    }
+
+    .producto2{
+position:absolute;
+background-color: rgb(155, 155, 138);
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+left: 39%;
+    }
+
+    .producto3{
+        position:absolute;
+        background-color: rgb(155, 155, 138);
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        left: 45%;
+        left: 75% ;
+
+    }
