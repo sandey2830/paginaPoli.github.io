@@ -5,3 +5,25 @@ body {
     background: linear-gradient(150deg,#353534,#dbba00);
     height: 190vh;
     }
+
+    .corte{
+        position: absolute;
+        left: -10%;
+        background-color: aliceblue;
+        
+    }
+
+    .barba{
+        position: absolute;
+        left: 30%;
+        background-color: aliceblue;
+
+        
+    
+    }
+
+   .mascarilla{
+position: absolute;
+left: 75%;
+background-color: aliceblue;
+   }
