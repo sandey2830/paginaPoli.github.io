@@ -8,14 +8,13 @@ body {
 
     .corte{
         position: absolute;
-        left: -10%;
         background-color: aliceblue;
         
     }
 
     .barba{
         position: absolute;
-        left: 30%;
+        left: 39%;
         background-color: aliceblue;
 
         
@@ -24,6 +23,6 @@ body {
 
    .mascarilla{
 position: absolute;
-left: 75%;
+left: 79%;
 background-color: aliceblue;
    }
